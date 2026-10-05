@@ -1,0 +1,6 @@
+{
+  "name": "Spacio",
+  "description": "Condo living room renovation planning and cost estimation prototype for Philippine condo owners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
